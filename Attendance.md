@@ -9,4 +9,5 @@ Hubert Stępiński |      |:+1:|
 Daria Chełstowska |        | :+1: |
 Patryk Bieszke |        | :+1: |
 Przemysław Smyczyński |        | :+1: |
+Krzysztof Kłopocki | | :+1: |
 suma             | 5   ||
